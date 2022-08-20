@@ -15,11 +15,14 @@ public class _07 {
 	int a = sc.nextInt();
 	int b = sc.nextInt();
 	
-	System.out.println(a+b);
-	System.out.println(a-b);
-	System.out.println(a*b);
-	System.out.println(a/b);
-	System.out.println(a%b);
+	//System.out.printf(" %d %d %d %d %d ", a+b, a-b, a*b, a/b, a%b ); 숫자 배열처럼 나오게 만들기
+	System.out.println(a+b);	
+	System.out.println(a-b);	
+	System.out.println(a*b);	
+	System.out.println(a/b);	
+	System.out.println(a%b);	
+		
+	
 	
 	
 	}
