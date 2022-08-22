@@ -51,11 +51,6 @@ public class ArrayTest1 {
 		 System.out.print(st+ " ");
 	 }
 	 
-	 /* for(int i =0; i<scores.length; i++ ) {
-	  total += scores[i];
-		}
-	System.out.println("scorce의 합 : "+total);
-	 */
 	 
 	 
 	 //1차원 배열 
@@ -63,10 +58,15 @@ public class ArrayTest1 {
 	 int total = 0;
 	 
 	 
-	 for(int score : scores) {
+	/* for(int score : scores) {
 		 total += score;
 	 }
 	 System.out.println("scorce의 합 : "+total);
+	 */
+	  for(int i =0; i<scores.length; i++ ) {
+	  total += scores[i];
+		}
+	System.out.println("scorce의 합 : "+total);
 	 
 	
 	 
@@ -109,7 +109,7 @@ public class ArrayTest1 {
 		 for(int b =0; b<3; b++) {
 			 for(int c =0; c<3;  c++) {
 				 System.out.printf("arr3d[%d][%d][%d] : %d\n",a, b, c ,arr3d[a][b][c]);
-		
+				 	//a가 행 b가 세로 c가 가로 그래서 b와 c의 위치를 바꾸니 가로 먼저 읽음
 			 }
 		 }
 	 }
