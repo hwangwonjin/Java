@@ -19,6 +19,9 @@ public class P71 {
 		d /= 10;
 		System.out.println("c = "+c+", d =" +d);
 		
+		
+	int asdfsd
+		
 	}
 
 }
