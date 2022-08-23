@@ -29,6 +29,14 @@ public class Test3 {
 		result = num++;
 		System.out.println("result : "+result);
 		
+		result = ++num;
+		System.out.println("result : "+result);
+		
+		result = ++num;
+		System.out.println("result : "+result);
+		result = ++num;
+		
+		System.out.println("result : "+result);
 	}
 
 }
