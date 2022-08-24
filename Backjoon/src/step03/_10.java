@@ -16,7 +16,10 @@ public class _10 {
 		int x = sc.nextInt();
 		
 		for(int a =1; a<= n; a++) {
-			
+			int b = sc.nextInt();
+			if(b<x) {
+				System.out.print(b+" ");
+			}
 			
 			
 		}

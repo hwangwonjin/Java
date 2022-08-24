@@ -1,4 +1,4 @@
-package Stape01;
+package step01;
 /*
  * 날짜 : 2022/08/20
  * 이름 : 황원진
