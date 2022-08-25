@@ -4,6 +4,11 @@ package sub1;
  * 이름 : 황원진
  * 내용 : Java 클래스 실습하기
  * 
+ * 클래스와 객체 
+ * 클래스는 객체를 생성하는 구조체이고 속성(필드)과 기능(메서드)으로 구성
+ * 객체는 클래스의 실체 인스턴스이고 new연산으로 생성
+ * 
+ * 
  *
  */
 public class ClassTest {
@@ -15,6 +20,7 @@ public class ClassTest {
 		sonata.name ="소나타";
 		sonata.Color ="흰색";
 		sonata.speed =10;
+		
 		
 		//객체 기능
 		sonata.speedup(80);
@@ -49,6 +55,8 @@ public class ClassTest {
 		kb.deposit(50000);
 		kb.whithdraw(7000);
 		kb.show();
+		
+		
 		
 }
 }
