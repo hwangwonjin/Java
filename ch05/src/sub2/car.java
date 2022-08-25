@@ -39,7 +39,7 @@ public class car {
 	 
 	
 	//기능
-	public void speedup(int speed) {
+	public void speedUp(int speed) {
 		
 		this.speed += speed;
 	
