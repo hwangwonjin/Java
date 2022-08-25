@@ -20,7 +20,7 @@ public class P71 {
 		System.out.println("c = "+c+", d =" +d);
 		
 		
-	int asdfsd
+	
 		
 	}
 
