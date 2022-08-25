@@ -5,7 +5,7 @@ package ch05;
  * 내용 : student 클래스에 main() 함수 추가하기
  * 
  */
-public class P144 {
+public class Student {
 	int studentID;
 	String studentName;
 	int grade;
@@ -16,7 +16,7 @@ public class P144 {
 	}
 	public static void main(String[] args) {
 		Student studentAhn = new Student();
-		student.studentName = "안연수";
+		studentAhn.studentName = "안연수";
 		
 		System.out.println(studentAhn.studentName);
 		System.out.println(studentAhn.getStudentName());
