@@ -19,7 +19,7 @@ public class ClassTest {
 		
 		sonata.name = "소나타";
 		sonata.Color = "흰색";
-		sonata.speed = 10;
+		sonata.speed = 20;
 		
 		
 		//객체 기능
