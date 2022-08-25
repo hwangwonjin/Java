@@ -18,7 +18,7 @@ public class EncapsuleTest {
 		
 		car sonata= new car("쏘나타", "흰색", 10);
 		sonata.setColor("은색");
-		sonata.speedup(80);
+		sonata.speedUp(80);
 		sonata.speedDown(40);
 		sonata.show();
 		
