@@ -17,20 +17,20 @@ public class ClassTest {
 		//객체 생성
 		car sonata = new car();
 		
-		sonata.name ="소나타";
-		sonata.Color ="흰색";
-		sonata.speed =10;
+		sonata.name = "소나타";
+		sonata.Color = "흰색";
+		sonata.speed = 10;
 		
 		
 		//객체 기능
-		sonata.speedup(80);
+		sonata.speedUp(80);
 		sonata.speedDown(30);
 		sonata.show();
 		
 		
 		//객체생성
 		
-		car avante =new car();
+		car avante = new car();
 		
 		//객체속성초기화
 			
@@ -40,7 +40,7 @@ public class ClassTest {
 		
 		//객체기능
 		
-		avante.speedup(70);
+		avante.speedUp(70);
 		avante.speedDown(40);
 		avante.show();
 		

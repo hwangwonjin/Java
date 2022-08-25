@@ -11,10 +11,10 @@ public class Account {
 	
 	//생성자 
 	public Account(String bank, String id, String name,int balance) {
-		this.bank=bank;
-		this.id=id;
-		this.name=name;
-		this.balance=balance;
+		this.bank = bank;
+		this.id = id;
+		this.name = name;
+		this.balance = balance;
 	}
 	
 	
