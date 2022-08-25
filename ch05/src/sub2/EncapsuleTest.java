@@ -28,16 +28,19 @@ public class EncapsuleTest {
 		
 	
 		kb.deposit(50000);
-		kb.whithdraw(7000);
+		kb.withdraw(7000);
 		kb.show();
 		
 		Account wr = new Account ("우리은행", "101-12-2012", "김춘추", 10000);
 		wr.deposit(75000);
-		wr.whithdraw(5000);
+		wr.withdraw(5000);
 		wr.show();
 		
 		
-		
+		Account hn = new Account ("하나은행", "101-12-1234","장보고", 10000);
+		hn.deposit(50000);
+		hn.withdraw(3000);
+		hn.show();
 		
 		
 		
