@@ -19,9 +19,6 @@ public class HelloWorld {
 		
 		//개행처리
 		System.out.println();
-		System.out.println("Hello Busan!");
-		
-		
+		System.out.println("Hello Busan!");		
 	}
-
 }
