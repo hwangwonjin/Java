@@ -27,7 +27,7 @@ public class ArrayTest1 {
 	 
 	 System.out.println("arr3[1] : "+arr3[1]);
 	 System.out.println("arr3[3] : "+arr3[3]);
-	 
+	 System.out.println("arr3[2] : "+arr3[2]);
 	 
 	 //배열 길이
 	 System.out.println("arr1의 배열 길이 : "+arr1.length);
