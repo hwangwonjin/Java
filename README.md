@@ -12,7 +12,12 @@
 	-sub2.조건문 swich 실습
 	-sub3.반복문 for 실습
 	-sub4.반복문 while 실습
-# Java1
+##Ch04 Java 배열
+	-sub1. 배열 Array 실습
+	-sub2. 메서드 Method 실습
+	-sub3. 매서드 타입 실습
+	-sub4. 매서드 오버로딩 실습
+
 # Java1
 # Java1
 # Java
