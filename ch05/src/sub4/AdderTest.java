@@ -21,11 +21,17 @@ class Adder{
 	
 	public void add(int x, int y) {
 		this.x += x;
+	//	System.out.println("x : "+x);//
 		y++;	
+	//	System.out.println("y : "+y);//
+	//	this.y += y;
+	//	System.out.println("y : "+y);//
 	}
 	public void add(int[] arr) {
 		x += arr[0];
+	//	System.out.println("x : "+x);//
 		y += arr[1];
+	//	System.out.println("y : "+y);//
 	}
 	
 	
