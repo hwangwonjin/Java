@@ -5,7 +5,7 @@ package ch06;
  * 페이지: 182
  */
 public class Student0 {
-	public static int serialNum = 1000;
+	private static int serialNum = 1000;
 	public int studentID;
 	public String studentName;
 	public int grade;
@@ -25,4 +25,15 @@ public class Student0 {
 	public void setStudentName(String name) {
 		studentName = name;
 	}
+	
+	public static int getSerialNum() {
+		int i = 10;
+		return serialNum;
+	
+	}
+	
+	public static void setSerialNum() {
+		Student0.serialNum = serialNum;
+	}
+	
 }

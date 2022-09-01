@@ -8,12 +8,12 @@ public class StudentTest1 {
 	public static void main(String[] args) {
 		Student0 studentlee = new Student0();
 		studentlee.setStudentName("이지원");
-		System.out.println(studentlee.serialNum);
+		System.out.println(Student0.getSerialNum());
 		System.out.println(studentlee.studentName+"학번 : "+studentlee.studentID);
 		
 		Student0 studentson = new Student0();
 		studentson.setStudentName("손수경");
-		System.out.println(studentson.serialNum);
+		System.out.println(Student0.getSerialNum());
 		System.out.println(studentson.studentName+"학번 : "+studentson.studentID);
 	}
 }
