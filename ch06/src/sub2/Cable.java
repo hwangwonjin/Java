@@ -2,10 +2,13 @@ package sub2;
 
 public class Cable implements Socket {
 
-	private Bulb bulb;
 	
-	public Cable(Bulb bulb) {
+	private Bulb bulb;
+	private int num;
+	
+	public Cable(Bulb bulb, int num) {
 		this.bulb =bulb;
+		this.num = num;
 	}
 	
 	

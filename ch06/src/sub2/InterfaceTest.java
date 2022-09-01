@@ -27,7 +27,8 @@ public class InterfaceTest {
 		//인터페이스 결합도 완화
 		
 		Bulb bulb = new Bulb();
-		Socket socket = new Cable(bulb);
+		int num = 10;
+		Socket socket = new Cable(bulb, num);
 		
 		
 		socket.swichon();
