@@ -6,13 +6,14 @@ package sub3;
  */
 class Rest{
 	public void payment() {
-		System.out.println("임내료를 받습니다.");
+		System.out.println("임대료를 받습니다.");
 	}
 }
 
 class Landload extends Rest{
+	
 	public void getMoney() {
-		System.out.println("건물주 입니다.");
+		System.out.println("건물주 입니다");
 		payment();
 	}
 }
