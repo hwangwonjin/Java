@@ -75,9 +75,9 @@ public class RagularExpressTest {
 		}
 	
 		Pattern pt2 = Pattern.compile(ptt4);
-		Matcher mt2 = pt1.matcher(str);
+		Matcher mt2 = pt2.matcher(str);
 		
-		System.out.println("휴대폰 조회");
+		System.out.println("이메일 조회");
 		while(mt2.find()) {
 			System.out.println(mt2.group());
 		}
