@@ -32,7 +32,18 @@
 	-sub1. 예외처리 실습하기
 	-sub2. 예외던지기 실습하기
 ## Ch08.Java API
-	-sub1. object 클래스
+	-sub1. object 클래스 실습하기
+	-sub2. String 클래스 실습하기
+	-sub3. Wrapper 클래스 실습하기
+	-sub4. Math 클래스 실습하기
+	-sub5. DATE 클래스 실습하기
+	-sub6. 정규표현식 클래스 실습하기
+## Ch09.Java 제네릭과 컬렉션 플레임워크
+	-sub1. 제네릭 실습하기
+	-sub2. 자료구조 Stack 실습하기
+	-sub3. 자료구조 List 실습하기
+	-sub4. 자료구조 set 실습하기
+	-sub5. 자료구조 Map 실습하기
 # Java
 # Java1
 # Java
