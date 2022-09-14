@@ -3,7 +3,7 @@ package ch09;
  *이름 : 황원진
  *내용 : 추상 클래스 구현하기
  */
-public abstract class P283 {
+public abstract class Computer {
 	public abstract void display();
 	public abstract void typing();
 	public void turnOn() {
