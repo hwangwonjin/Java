@@ -10,6 +10,7 @@ import java.sql.DriverManager;
  *JDBC(Java DataBase Connectivity)
  *	자바에서 데이터베이스 연결을 위한 기술표준
  *	Java는 기본적으로 JDBC 라이브러리 포함하고 해당 DBMS에 맞는 드라이버만 다운로드&설정
+ *
  * 
  */
 public class JDBCTest {
