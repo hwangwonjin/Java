@@ -8,7 +8,7 @@ public class Test3 {
 		
 		String fileName = "자바 프로그래밍.pdf";
 		
-		int idx = fileName.lastIndexOf(".");
+		int idx = fileName.indexOf(".");
 		
 		String title = fileName.substring(0, idx);
 		String ext = fileName.substring(idx+1);
