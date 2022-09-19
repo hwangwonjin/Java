@@ -70,8 +70,48 @@
 	-sub2. 스레드 join 실습하기
 	-sub3. 스레드 활용 실습하기
 	-sub4. 데몬스레드 
-# Backjoon
+# Backjoon 문제 풀이
 
  ## Step.01
+ 	-Test 01. HelloWorld
+	-Test 02. 강한친구 대한육군
+	-Test 03. A+B
+	-Test 04. A-B
+	-Test 05. A*B
+	-Test 06. A/B
+	-Test 07. 사칙연산
+	-Test 08. ??!
+	-Test 09. 불기연도 서기연도로 변경
+	-Test 10. 킹 퀸 룩 비숍 나이트 폰
+	-Test 11. 나머지
+	-Test 12. 곱셈
+	-Test 13. 고양이
+	-Test 14. 개
+	-Test 15. 새싹
+## Step.02
+	-Test 01. 두 수 비교하기
+	-Test 02. 시험성적
+	-Test 03. 윤년
+	-Test 04. 사분면 고르기
+	-Test 05. 알람시계
+	-Test 06. 오븐시계
+	-Test 07. 주사위 세개
+
+## Step.03
+	-Test 01. 구구단
+	-Test 02. A + B -3
+	-Test 03. 합
+	-Test 04. 영수증
+	-Test 05. 빠른 A + B
+	-Test 06. A + B -7
+	-Test 07. A + B -8
+	-Test 08. 별찍기 -1
+	-Test 09. 별찍기 -2
+	-Test 10.
+	-Test 11.
+	-Test 12.
+	-Test 13.
+
+
 # Java1
 # Java
