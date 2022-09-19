@@ -107,11 +107,25 @@
 	-Test 07. A + B -8
 	-Test 08. 별찍기 -1
 	-Test 09. 별찍기 -2
-	-Test 10.
-	-Test 11.
-	-Test 12.
-	-Test 13.
+	-Test 10. A + B -7
+	-Test 11. A + B -5
+	-Test 12. A + B -4
+	-Test 13. 더하기 사이클
 
+## Step.04
+	-Test 01. 최소 최대
+	-Test 02. 최댓값
+	-Test 03. 나머지
+	-Test 04. 평균
+	-Test 05. OX퀴즈
+	-Test 06. 평균은 넘겠지
+	
+
+## Step.05
+	-Test 01. 정수 n개의 합
+	-Test 02. 셀프넘버
+	-Test 03. 한수
+	
 
 # Java1
 # Java
