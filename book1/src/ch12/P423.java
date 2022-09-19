@@ -7,10 +7,10 @@ import java.util.HashSet;
  *이름: 황원진
  *내용 : HashSet 테스트하기
  */
-public class HashSet {
+public class P423 {
 	public static void main(String[] args) {
 		HashSet<String> hashSet;
 		hashSet = new HashSet<String>();
-		hashSet.add
+		hashSet.add(null);
 	}
 }
