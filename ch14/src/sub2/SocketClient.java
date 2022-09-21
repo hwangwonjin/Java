@@ -7,9 +7,9 @@ import java.io.OutputStream;
 import java.net.InetSocketAddress;
 import java.net.Socket;
 
-/*날자 : 2022/09/21
- *이름 ㅣ 황원진
- *냉용 소켓 프로그래밍 실습하기
+/*날짜 : 2022/09/21
+ *이름 : 황원진
+ *내용 : 소켓 프로그래밍 실습하기
  */
 public class SocketClient {
 	public static void main(String[] args) {
