@@ -4,7 +4,7 @@ package ch12;
  *내용 : Member 클래스 구현하기
  *페이지 : 427
  */
-public class Member {
+public class Member implements Comparable<Member>{
 	private int memberId;
 	private String memberName;
 	
@@ -49,5 +49,9 @@ public class Member {
 		}
 	
 		return false;
+	}
+	
+	public int compareTo(Member member) {
+		return (this.memberId - member.memberId);
 	}
 }
