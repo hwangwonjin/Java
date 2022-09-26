@@ -5,6 +5,7 @@ package ch12;
  */
 
 import java.util.Comparator;
+import java.util.Set;
 import java.util.TreeSet;
 
 class MyCompare implements Comparator<String>{
@@ -21,6 +22,6 @@ class MyCompare implements Comparator<String>{
 public class P437 {
 	public static void main(String[] args) {
 		
-		Set<String> set = new TreeSet<String>()
+		Set<String> set = new TreeSet<String>();
 	}
 }
