@@ -53,8 +53,8 @@ public class Test10 {
 	}
 
 	//평년을 기준으로 각 월의 누적 날짜 수
-	public static int[] days = {0, 31, 68, 90, 120, 151,
-								181, 212, 243, 304,334};
+	public static int[] days = {0, 31, 59, 90, 120, 151,
+								181, 212, 243, 273, 304, 334};
 	
 	private static int dayofYear(int Year, int month, int day) {
 		return days[month-1] + day + (month > 2 && isLeapYear(Year) ? 1:0);
