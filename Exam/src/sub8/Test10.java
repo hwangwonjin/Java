@@ -1,7 +1,12 @@
 package sub8;
 
-
-
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
 
 /*날짜 : 2022/09/29
  *이름 : 황원진 
@@ -43,6 +48,10 @@ class User{
 		
 		return uid +","+name+","+hp+","+age;
 	}
+	public void add(User user) {
+		// TODO Auto-generated method stub
+		
+	}
 }
 
 
@@ -79,9 +88,14 @@ public class Test10 {
 		
 	}
 
-	private static List<User> query(String sql) {
+	public static List<User> query(String sql)  {
+	// TODO Auto-generated method stub
+	
+
+
+	
 		
-		List<User> users = ArrayList<>();
+		List<User> users =new ArrayList<>();
 		
 		Statement stmt = null;
 		ResultSet rs = null;
@@ -90,7 +104,7 @@ public class Test10 {
 			stmt = getConnection().createStatement();
 					
 			if(sql.toLowerCase().startsWith("select")) {
-				rs = stmt.execute
+				rs = stmt.executeQuery(sql);
 						
 				while (rs.next()) {
 					User user = new User();
@@ -102,12 +116,13 @@ public class Test10 {
 					
 				}
 			}else {
-				stmt.
+				stmt.executeUpdate(sql);
 			}
 			
 		}catch (Exception e) {
 			e.printStackTrace();
 		}
+		
 		return users;
 	}
 			

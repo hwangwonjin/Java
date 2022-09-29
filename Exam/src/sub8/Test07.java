@@ -43,8 +43,10 @@ class Products{
 public class Test07 {
 	public static void main(String[] args) {
 		Products products = new Products();
-		products.SetProduct("신발", 0);
-		products.SetProduct("신발", 0);
-		products.SetProduct("신발", 0);
+		products.SetProduct("신발", 30000);
+		products.SetProduct("셔츠", 20000);
+		products.SetProduct("바지", 15000);
+		
+		products.showList();
 	}
 }
