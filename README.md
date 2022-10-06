@@ -140,5 +140,98 @@
 	-Test 03. 한수
 	
 
-# Java1
+# Exam
+
+## Sub.1
+	-Test 01. java 자료형 문제
+	-Test 02. java 기본 입출력 문제
+	-Test 03. java 연산자 연습문제
+	-Test 04. java 자료형 연습문제
+	-Test 05. java 조건문 연습문제
+	-Test 06. java 삼항연산자 연습문제
+	-Test 07. 1~10까지 정수 중 2의 배수와 3의 배수 정수의 합 구하기
+	-Test 08. java 반복문 연습문제
+	-Test 09. java 반복문 연습문제
+	-Test 10. java 반복문 연습문제
+	
+## Sub.2
+	-Test 01. java 배열 문자 출력
+	-Test 02. java 배열 최댓값 찾기 연습문제
+	-Test 03. java 배열 역순으로 정렬 연습문제
+	-Test 04. java 배열 선택정렬 연습문제
+	-Test 05. java 배열 이진탐색 연습문제
+	-Test 06. java 메서드 연습문제
+	-Test 07. java 최대공약수 메서드 연습문제
+	-Test 08. java 팩토리얼 재구 매서드 연습문제
+	-Test 09. java 최대공약수 재귀 메서드 연습문제
+	-Test 10. java 피보니치 수열 재귀 메서드 연습문제
+	
+## Sub.3
+	-Test 01. java 클래스 연습문제
+	-Test 02. java 클래스 생성자 연습문제
+	-Test 03. java 클래스 연습문제
+	-Test 04. 정적변수 연습문제
+	-Test 05. 싱글톤 객체 연습문제
+	-Test 06. 클래스 상속 연습문제
+	-Test 07. 클래스 상속 연습문제
+	-Test 08. 다형성 연습문제
+	-Test 09. 추상클래스, 다형성 연습문제
+	-Test 10. 인터페이스 연습문제
+	
+## Sub.4	
+	-Test 01. java 예외처리 연습문제
+	-Test 02. java 예외처리 연습문제
+	-Test 03. java 예외처리 연습문제
+	-Test 04. java 예외처리 연습문제
+	-Test 05. String, Wrapper 클래스 연습문제
+	-Test 06. java API클래스 연습문제
+	-Test 07. java API클래스 연습문제
+	-Test 08. java 로또 연습문제
+	-Test 09. 객체 리스트 연습문제
+	-Test 10. 예외처리 연습문제
+	
+## Sub.5	
+	-Test 01. java 총정리 연습문제
+	-Test 02. java 총정리 연습문제
+	-Test 03. java 총정리 연습문제
+	-Test 04. java 총정리 연습문제
+	-Test 05. java 총정리 연습문제
+	-Test 06. java 총정리 연습문제
+	-Test 07. java 총정리 연습문제
+	-Test 08. java 총정리 연습문제
+	-Test 09. java 총정리 연습문제
+	-Test 10. java 총정리 연습문제
+	
+## Sub.6	
+	-Test 01. java 총정리 실습
+	-Test 03. java 총정리 실습
+	-Test 04. java 총정리 실습
+	-Test 05. java 총정리 실습
+	-Test 06. java 총정리 실습
+	-Test 07. java 총정리 실습
+	-Test 08. java 총정리 실습
+	-Test 09. java 총정리 실습
+	-Test 10. java 총정리 실습	
+
+## Sub.7	
+	-Test 01. java 총정리 
+	-Test 03. java 총정리 
+	-Test 04. java 총정리 
+	-Test 05. java 총정리 
+	-Test 06. java 총정리 
+	-Test 07. java 총정리 
+	-Test 08. java 총정리 
+	-Test 09. java 총정리 
+	-Test 10. java 총정리 	
+	
+## Sub.8	
+	-Test 01. java 총정리 
+	-Test 03. java 총정리 
+	-Test 04. java 총정리 
+	-Test 05. java 총정리 
+	-Test 06. java 총정리 
+	-Test 07. java 총정리 
+	-Test 08. java 총정리 
+	-Test 09. java 총정리 
+	-Test 10. java 총정리 
 # Java
